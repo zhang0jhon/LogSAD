@@ -1,6 +1,8 @@
 # Towards Training-free Anomaly Detection with Vision and Language Foundation Models (CVPR 2025)
 
-By Jinjin Zhang, Guodong Wang, Yizhou Jin, Di Huang.
+<div>
+  <a href="https://arxiv.org/abs/2503.18325"><img src="https://img.shields.io/static/v1?label=Arxiv&message=LogSAD&color=red&logo=arxiv"></a> &ensp;
+</div>
 
 
 ## Installation
@@ -50,6 +52,6 @@ If you find our paper is helpful in your research or applications, generously ci
       title={Towards Training-free Anomaly Detection with Vision and Language Foundation Models},
       author={Jinjin Zhang, Guodong Wang, Yizhou Jin, Di Huang},
       year={2025},
-      booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+      booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     }
 ```
